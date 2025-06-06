@@ -15,3 +15,15 @@
   <h2>Yakında daha fazla bilgi burada olacak.</h2>
 </body>
 </html>
+<h2>Logline</h2>
+<p>
+Kadim bir kötülük uyanınca, ikiz kardeşler sihirli bir kuşu korumalı ve lanetli bir varlığı, uyumun zamansız bir enstrümanına dönüştürmelidir.
+</p>
+
+<hr>
+
+<h2>Tür ve Hedef Kitle</h2>
+<p>
+<strong>Tür:</strong> Animasyon, Fantastik, Macera <br>
+<strong>Hedef Kitle:</strong> 6 yaş ve üzeri çocuklar, aileler, animasyon severler, kültürel hikâyelere ilgi duyan izleyiciler.
+</p>
