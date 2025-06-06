@@ -97,3 +97,19 @@ Hedefimiz, uluslararası bir geliştirme programına veya pitch forumuna katılm
 <p><strong>
 Janarkush, Kırgız mitolojisine dayanan ilk uzun metrajlı animasyon filmi olabilir.
 </strong></p>
+<hr>
+
+<h2>İletişim</h2>
+
+<p>
+Aida Sharsheeva  
+Kırgızistan / Türkiye
+</p>
+
+<p>
+E-posta: <a href="mailto:aidasharsheeva@gmail.com">aidasharsheeva@gmail.com</a>
+</p>
+
+<p><strong>
+Sunuma açık, işbirliğine hazır.
+</strong></p>
