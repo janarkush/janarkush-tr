@@ -12,8 +12,7 @@
   <p><em>Uyum, cesaret ve dünyayı kurtaran ezgi hakkında efsanevi bir animasyon.</em></p>
   <p><strong>Kırgız mitolojisinden esinlenmiştir.</strong></p>
   <hr>
-  <h2>Yakında daha fazla bilgi burada olacak.</h2>
-</body>
+ </body>
 </html>
 <h2>Logline</h2>
 <p>
@@ -35,12 +34,12 @@ Dağlarla çevrili büyülü bir dünyada, insanlar bir zamanlar kuşların dili
 <p>
 Yolculukları boyunca ihanetle, lanetlerle ve korkuyla yüzleşirler. Ve sonunda, lanetli bir yaratımı, iyileştiren bir müzik enstrümanına dönüştürürler.
 </p>
-<p>
-<strong>Janarkush</strong>, savaşla değil, müzikle kötülüğü yenen bir efsanedir. Uyum, hafıza ve sessiz direniş üzerine şiirsel bir animasyon hikâyesidir.
-</p>
+<p><strong>
+Janarkush, savaşla değil, müzikle kötülüğü yenen bir efsanedir.  
+Bu hikâye, şiddetsiz direnişin, hatırlamanın ve uyumun gücünü anlatır.
+</strong></p>
 
 <h2>Ana Karakterler</h2>
-
 <p><strong>Kambar</strong> – Baba, doğanın koruyucusu ve ahlaki pusula.</p>
 <p><strong>Aysal</strong> – Anne, sessiz ama güçlü; ailesini her durumda ayakta tutar.</p>
 <p><strong>Aksuu & Koksuu</strong> – Zıt karakterli ikiz kardeşler; biri hareketli ve cesur, diğeri sakin ve sadık.</p>
