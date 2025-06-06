@@ -82,3 +82,18 @@ Proje, ortak yapımcı, senaryo geliştirme desteği ve uluslararası işbirliğ
 <p><strong>
 Amaç: Janarkush'u dünya çapında bir izleyici kitlesine ulaştırmak.
 </strong></p>
+<hr>
+
+<h2>Sunum Amacı</h2>
+
+<p>
+Bu proje, hem hikâyeye hem de kültürel kimliğine inanan bir yapımcı veya ortak yapımcı arıyor.
+</p>
+
+<p>
+Hedefimiz, uluslararası bir geliştirme programına veya pitch forumuna katılmak ve Janarkush'u küresel bir animasyon projesi olarak tanıtmak.
+</p>
+
+<p><strong>
+Janarkush, Kırgız mitolojisine dayanan ilk uzun metrajlı animasyon filmi olabilir.
+</strong></p>
