@@ -38,3 +38,18 @@ Yolculukları boyunca ihanetle, lanetlerle ve korkuyla yüzleşirler. Ve sonunda
 <p>
 <strong>Janarkush</strong>, savaşla değil, müzikle kötülüğü yenen bir efsanedir. Uyum, hafıza ve sessiz direniş üzerine şiirsel bir animasyon hikâyesidir.
 </p>
+
+<h2>Ana Karakterler</h2>
+
+<p><strong>Kambar</strong> – Baba, doğanın koruyucusu ve ahlaki pusula.</p>
+<p><strong>Aysal</strong> – Anne, sessiz ama güçlü; ailesini her durumda ayakta tutar.</p>
+<p><strong>Aksuu & Koksuu</strong> – Zıt karakterli ikiz kardeşler; biri hareketli ve cesur, diğeri sakin ve sadık.</p>
+<p><strong>Janarkush</strong> – Efsanevi kuş; hafızanın ve doğayla uyumun sembolü.</p>
+<p><strong>Ka’ar</strong> – Eski kötülüğün vücut bulmuş hali; dünyayı sessizliğe boğmak ister.</p>
+<p><strong>Kashan</strong> – Tembellik cadısı; tatlı sözlerle yoldan çıkarır.</p>
+
+<p><em>Simgesel rehberler:</em><br>
+<strong>Kambarkan Ata</strong> – Atların ruhu, sabırlı güç ve sükûnetin temsilcisi.<br>
+<strong>Cholpona Ata</strong> – Çobanların ruhu, sessizlik ve denge sembolü.<br>
+<strong>Dekhan Baba</strong> – Toprağın ruhu, köklere dayanan bilgelik.
+</p>
