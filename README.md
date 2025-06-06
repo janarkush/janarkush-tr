@@ -52,3 +52,19 @@ Bu hikâye, şiddetsiz direnişin, hatırlamanın ve uyumun gücünü anlatır.
 <strong>Cholpona Ata</strong> – Çobanların ruhu, sessizlik ve denge sembolü.<br>
 <strong>Dekhan Baba</strong> – Toprağın ruhu, köklere dayanan bilgelik.
 </p>
+<hr>
+
+<h2>Görsel Stil</h2>
+
+<p>
+Animasyon tarzı, Orta Asya motiflerinden, dağ manzaralarından ve filmler gibi <em>Mulan</em> veya <em>Song of the Sea</em>'den esinlenmiştir.
+</p>
+
+<p>
+Renk paleti doğadan ilham alır: toprak, gökyüzü, ateş ve ruhun tonları.  
+Her karakterin görsel dili, kişiliğini ve kültürel kökenini yansıtır.
+</p>
+
+<p><strong>
+Görsellik sadece estetik değil; hikâyenin dili ve duygusudur.
+</strong></p>
