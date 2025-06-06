@@ -113,14 +113,3 @@ E-posta: <a href="mailto:aidasharsheeva@gmail.com">aidasharsheeva@gmail.com</a>
 <p><strong>
 Sunuma açık, işbirliğine hazır.
 </strong></p>
-anarkuş’un Ruhu
-Bazıları onu bir güvercin gibi zarif ve koruyucu görür.
-Bazıları ise, efsanelerde anlatıldığı gibi, gerektiğinde bir kartal, hatta bir anka kuşu gibi güçlü ve yıkılmaz.
-
-Janarkuş — sadece bir kuş değil.
-O, bir hafıza, bir uyum, bir denge ruhudur.
-Kadim Türk mitolojisindeki Umai’nin yankısıdır: yaşamın, anneliğin ve doğanın kutsal koruyucusu.
-
-Bugün Janarkuş, sadece bir efsane değil —
-aynı zamanda dünyaya açılan bir kültürel kapıdır.
-Çünkü onun hikâyesi; sesle, sessizlikle ve yeniden doğuşla anlatılır.
