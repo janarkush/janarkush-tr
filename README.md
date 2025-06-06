@@ -68,3 +68,17 @@ Her karakterin görsel dili, kişiliğini ve kültürel kökenini yansıtır.
 <p><strong>
 Görsellik sadece estetik değil; hikâyenin dili ve duygusudur.
 </strong></p>
+<hr>
+
+<h2>Geliştirme Aşaması</h2>
+
+<p>
+Senaryo tamamlandı. Ana karakter çizimleri, atmosfer panoları (moodboard) ve sunum dosyası (pitch deck) hazır.
+</p>
+<p>
+Proje, ortak yapımcı, senaryo geliştirme desteği ve uluslararası işbirliği fırsatları aramaktadır.
+</p>
+
+<p><strong>
+Amaç: Janarkush'u dünya çapında bir izleyici kitlesine ulaştırmak.
+</strong></p>
